@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+   <Hotel Rating="4.2">
+      <Name>Westin</Name>
+      <Phone>480-968-8885</Phone>
+      <Phone>800-937-8461</Phone>
+      <Rating>4.2</Rating>
+      <Address NearstAirport="Sky Harbor">
+         <Number>11</Number>
+         <Street>E.7th St</Street>
+         <City>Tempe</City>
+         <State>AZ</State>
+         <Zip>85281</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.6">
+      <Name>The Phoenician</Name>
+      <Phone>480-941-8200</Phone>
+      <Phone>480-423-2445</Phone>
+      <Address>
+         <Number>6000</Number>
+         <Street>E. Camelback Rd</Street>
+         <City>Scottsdale</City>
+         <State>AZ</State>
+         <Zip>85251</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.3">
+      <Name>Hilton Phoenix Airport</Name>
+      <Phone>480-894-1600</Phone>
+      <Phone></Phone>
+      <Address NearstAirport="Sky Harbor">
+         <Number>2435</Number>
+         <Street>S 47th St</Street>
+         <City>Phoenix</City>
+         <State>AZ</State>
+         <Zip>85034</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.6">
+      <Name>Post Ranch Inn</Name>
+      <Phone>831-667-2200</Phone>
+      <Phone>800-527-2200</Phone>
+      <Address NearstAirport="Monterey Regional">
+         <Number>47900</Number>
+         <Street>CA-1</Street>
+         <City>Big Sur</City>
+         <State>CA</State>
+         <Zip>93920</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.6">
+      <Name>Amangiri</Name>
+      <Phone>435-675-3999</Phone>
+      <Phone>800-978-674</Phone>
+      <Address NearstAirport="Page Municipal">
+         <Number>11</Number>
+         <Street>Kayent Rd</Street>
+         <City>Canyon Point</City>
+         <State>UT</State>
+         <Zip>84741</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.7">
+      <Name>Land's End Inn</Name>
+      <Phone>508-487-0706</Phone>
+      <Phone>1-800-963-4816</Phone>
+      <NearstAirport>Provincetown Mncpl</NearstAirport>
+      <Address NearstAirport="Provincetown Mncpl">
+         <Number>22</Number>
+         <Street>Commercial St</Street>
+         <City>Provincetown</City>
+         <State>MA</State>
+         <Zip>02657</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.7">
+      <Name>Twin Farms</Name>
+       <Name>Nine west</Name>
+      <Phone>802-234-9999</Phone>
+      <Phone>800-894-6327</Phone>
+      <Address NearstAirport="Edward F. Knapp State">
+         <Number>452</Number>
+         <Street>Royalton Turnpike</Street>
+         <City>Barnard</City>
+         <State>VT</State>
+         <Zip>05031</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.7">
+      <Name>The Little Nell</Name>
+      <Phone>970-920-4600</Phone>
+      <Phone>855-920-4600</Phone>
+      <Address NearstAirport="Aspen">
+         <Number>675</Number>
+         <Street>E Durant Ave</Street>
+         <City>Aspen</City>
+         <State>CO</State>
+         <Zip>81611</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.3">
+      <Name>Conrad Orlando</Name>
+      <Phone>407-387-2000</Phone>
+      <Phone>821-982-2161</Phone>
+      <Address NearstAirport="Orlando International">
+         <Number>1500</Number>
+         <Street>Eastbeach Wy</Street>
+         <City>Orlando</City>
+         <State>FL
+         <Zip>32836</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Rating="4.3">
+      <Name>Canopy by Hilton Tempe Downtown</Name>
+      <Phone>480-968-6800</Phone>
+      <Address NearstAirport="Sky Harbor">
+         <Number>108</Number>
+         <Street>E.University Dr</Street>
+         <City>Tempe</City>
+         <State>AZ</State>
+         <Zip>85281</Zip>
+      </Address>
+   </Hotel>
+</Hotel>
